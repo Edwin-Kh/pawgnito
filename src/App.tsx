@@ -1,9 +1,9 @@
-import SignUp from "./assets/pages/SignUp";
+import NavBar from "./assets/components/NavBar";
 
 function App() {
   return (
     <>
-      <SignUp />
+      <NavBar></NavBar>
     </>
   );
 }

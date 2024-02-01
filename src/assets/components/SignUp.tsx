@@ -30,7 +30,7 @@ export default function SignUp() {
         </Card.Body>
       </Card>
       <div className="w-100 text-center mt-2">
-        Alreadyy have an account? Log In
+        Already have an account? Log In
       </div>
     </>
   );
